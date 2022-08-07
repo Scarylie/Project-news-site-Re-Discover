@@ -6,4 +6,4 @@ This project is my vision for my friend to share his study material with his fol
 
 ## The problem
 
-I had problems figuring out how to use flex-box and grid and hos to tructure the code with different classes ans Divs. If i had more time i would like to have the news article boxes in squares and better pictures. 
+I had problems figuring out how to use flex-box and grid and how to structure the code with different classes ans Divs. If I had more time i would like to have the news article boxes in squares and better pictures. It also took some time to get the responsiveness to work. 
