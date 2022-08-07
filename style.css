@@ -50,10 +50,15 @@ body {
   padding:10px;
 }
 
+.news-big-content-img{
+  margin: 0 auto;
+}
+
 .news-big-content img {
   width:300px;
   max-height: 50%; 
 }
+
 
 .news-item { 
   width:25%;
@@ -88,6 +93,8 @@ max-width: 50%;
   flex-direction: column;
 }
 .news-big-content img {
+
+  align-self: center;
   width:100%;
   max-width: 100%;
 }
@@ -97,5 +104,9 @@ max-width: 50%;
 .news-item {
   width: 100%;
   max-width: 100%;
+}
+
+.header {
+  flex-direction: column;
 }
 }
